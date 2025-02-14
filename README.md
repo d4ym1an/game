@@ -1,2 +1,2 @@
 this game sucks
-play here!
+[play here!](https://really-bad-game.netlify.app/)
